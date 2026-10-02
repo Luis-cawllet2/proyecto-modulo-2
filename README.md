@@ -13,7 +13,7 @@ condiciones lógicas y muestra los resultados con `print()` y f-strings.
   python main.py
 
 Captura de ejecución
-(capturas/ejecucion.png)
+![Ejecución](capturas/ejecucion.png)
 
 
 Declaración de uso de IA
